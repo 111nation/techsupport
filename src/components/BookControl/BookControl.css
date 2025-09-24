@@ -7,4 +7,10 @@
 
   background-size: 200%;
   background-position: -120% 0;
+
+  transition: 0.1s ease-out;
+}
+
+.book-btn:hover {
+  background-position: -75% 0;
 }
