@@ -1,0 +1,8 @@
+.hero {
+  background: linear-gradient(
+    90deg,
+    hsla(233, 90%, 12%, 1) 8%,
+    hsla(218, 100%, 18%, 1) 47%,
+    hsla(218, 100%, 18%, 1) 96%
+  );
+}
