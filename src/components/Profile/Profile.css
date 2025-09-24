@@ -1,0 +1,12 @@
+.profile-img {
+  background: radial-gradient(
+    circle,
+    hsla(231, 78%, 73%, 1) 0%,
+    hsla(230, 86%, 46%, 1) 100%
+  );
+
+  background-size: 200%;
+  background-position: -120% 0;
+
+  transition: 0.1s ease-out;
+}

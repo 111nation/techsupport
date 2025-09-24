@@ -12,4 +12,5 @@
   background-color: #efefef;
   font-weight: 400;
   user-select: none;
+  overflow-x: hidden;
 }
