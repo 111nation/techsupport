@@ -8,7 +8,7 @@ interface ServiceProps {
 
 function Service(props: ServiceProps) {
   return (
-    <div className="sm:text-xs">
+    <div className="sm:text-lg">
       <p className="font-bold">{props.heading}</p>
       {props.children}
     </div>
@@ -18,7 +18,7 @@ function Service(props: ServiceProps) {
 function Services() {
   return (
     <div className="services text-[#efefef] px-10 py-7.5">
-      <h1 className="font-extrabold text-2xl">Services</h1>
+      <h1 className="font-extrabold text-2xl sm:text-3xl">Services</h1>
       <div className="grid grid-cols-2 gap-4 w-[100%] lg:w-[50%] sm:grid-cols-4 my-5">
         <Service heading="Software Issues">
           Problem not fixed? You will receive a refund!

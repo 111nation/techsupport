@@ -15,7 +15,7 @@ function Button({
     <button
       onClick={(e) => onClick(e)}
       className={
-        "book-btn border-1 border-[#7584FE] p-2 px-5 text-[#efefef] rounded-full font-bold shadow-md  outline-none cursor-pointer " +
+        "book-btn text-xl border-1 border-[#7584FE] p-3 px-7 text-[#efefef] rounded-full font-bold shadow-md  outline-none cursor-pointer " +
         className
       }
     >

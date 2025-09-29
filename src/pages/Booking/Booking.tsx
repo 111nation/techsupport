@@ -8,7 +8,7 @@ function Booking() {
 
   return (
     <div className="booking-card w-screen h-screen flex justify-center items-center">
-      <div className="border-[rgba(32, 31, 31, 1)] p-0 shadow-xl overflow-hidden rounded-xl w-[75%] max-w-[600px]">
+      <div className="border-[rgba(32, 31, 31, 1)] p-0 shadow-xl overflow-hidden rounded-xl w-[90%] sm:w-[75%] max-w-[600px]">
         <div className="booking-header w-full px-10 py-5 text-[#EFEFEF]">
           <h3>Before we start!</h3>
           <p>
@@ -46,8 +46,12 @@ function Booking() {
             . <br /> <br />
             If your problem has not been solved or you are unsatisfied you may
             qualify for a refund. Additional resources may be provided to you if
-            your problem hasnt been solved. <br />
-            <Button className="mt-5 " onClick={onClick} />
+            your problem hasn't been solved. <br /> <br />
+            <i className="m-0 text-md">
+              *Select a time slot for your call
+            </i>{" "}
+            <br />
+            <Button className="mt-3 " onClick={onClick} />
           </p>
         </div>
       </div>
