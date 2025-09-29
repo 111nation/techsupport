@@ -1,4 +1,4 @@
-# Laptop & Software Support Landing Page
+<img width="406" height="326" alt="2025-09-29-191526_hyprshot" src="https://github.com/user-attachments/assets/adf7e1d7-f570-41a7-9f14-9e1538ff7afb" /># Laptop & Software Support Landing Page
 
 <i align="center">Landing page for my Laptop & Software Support Side Hustle</i>
 
@@ -15,43 +15,29 @@
 
 ### Tools & Skills
 - React.js
+- Tailwind
 - TypeScript
 - Figma (UI/UX)
 
 ### UI/UX
-_Various stages done in order to create the UI and UX experience_
+_Various stages done in order to create the UI and UX experience - process is similar to (youboard.)[https://github.com/111nation/youboard/]_
 
 <table>
   <tr>
-    <td  width="50%"><img width="95%" align="center" alt="2025-07-17-214312_hyprshot" src="https://github.com/user-attachments/assets/10d09a13-76e0-43c5-a861-ad7a6c7219da" /></td>
+    <td  width="50%"><img alt="2025-07-18-212935_hyprshot" src="https://github.com/user-attachments/assets/748f5511-6f0c-4e4b-8404-c6143a217da2" /></td>
     <td>Wireframe: Defining the basic UI layout. The wireframe helps visualise how well the UX is</td>
   </tr>
 
 <tr>
-  <td width="50%"><img alt="2025-07-18-175514_hyprshot" src="https://github.com/user-attachments/assets/1544667c-5a87-4c22-aff6-cb0d3f29ded1" /></td>
+  <td width="50%"><img alt="2025-07-18-175514_hyprshot" src="https://github.com/user-attachments/assets/f48a4c30-7896-4ea3-8f37-d931510a5123" /></td>
   <td>Colour Palette: Reusable colours, text and components.</td>
 </tr>
 
 <tr>
-  <td width="50%"><img alt="2025-07-18-212935_hyprshot" src="https://github.com/user-attachments/assets/7d2c7cf5-3fa7-405f-a06d-4c7814f2e275" /></td>
-  <td>Final Figma Design: Result is a beautiful UI design.</td>
+  <td width="50%"><img width="95%" align="center" alt="2025-07-17-214312_hyprshot" src="https://github.com/user-attachments/assets/cab4d527-7bac-4a12-9cbd-aa299af34e5b" /></td>
+  <td>Final Figma Design: Result is a clean UI</td>
 </tr>
 </table>
-
-<table>
-  <tr>
-    <td width="40%">
-     <h4>Phone Demo</h4>
-      <video src="https://github.com/user-attachments/assets/d9041f43-e762-466c-bf64-1b39833e566e"></video>
-    </td>
-    <td width="40%">
-      <h4>Log In Demo</h4>
-       <video src="https://github.com/user-attachments/assets/09cfeb77-971a-457a-b1ea-b58f79272bed"></video>
-    </td>
-  </tr>
-</table>
-
-
 
 
 
