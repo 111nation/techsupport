@@ -1,4 +1,4 @@
-<img width="406" height="326" alt="2025-09-29-191526_hyprshot" src="https://github.com/user-attachments/assets/adf7e1d7-f570-41a7-9f14-9e1538ff7afb" /># Laptop & Software Support Landing Page
+# Laptop & Software Support Landing Page
 
 <i align="center">Landing page for my Laptop & Software Support Side Hustle</i>
 
