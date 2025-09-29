@@ -7,7 +7,7 @@ function Booking() {
   };
 
   return (
-    <div className="booking-card w-screen h-screen flex justify-center items-center">
+    <div className="booking-card w-screen my-10 flex justify-center items-center">
       <div className="border-[rgba(32, 31, 31, 1)] p-0 shadow-xl overflow-hidden rounded-xl w-[90%] sm:w-[75%] max-w-[600px]">
         <div className="booking-header w-full px-10 py-5 text-[#EFEFEF]">
           <h3>Before we start!</h3>
@@ -44,6 +44,16 @@ function Booking() {
               +27 74 457 2802
             </a>
             . <br /> <br />
+            <b>MR TAFARA TT KATSANDE</b> <br />
+            Bank: Standard Bank
+            <br />
+            Branch code: 7654
+            <br />
+            Account type: CURRENT
+            <br />
+            Account number: 10 21 242 699 9<br />
+            SWIFT code: SBZAZAJJ
+            <br /> <br />
             If your problem has not been solved or you are unsatisfied you may
             qualify for a refund. Additional resources may be provided to you if
             your problem hasn't been solved. <br /> <br />
