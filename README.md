@@ -20,7 +20,7 @@
 - Figma (UI/UX)
 
 ### UI/UX
-_Various stages done in order to create the UI and UX experience - process is similar to (youboard.)[https://github.com/111nation/youboard/]_
+_Various stages done in order to create the UI and UX experience - process is similar to [youboard.](https://github.com/111nation/youboard/)_
 
 <table>
   <tr>
