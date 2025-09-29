@@ -7,7 +7,7 @@ function Profile() {
         <img
           src="https://media.licdn.com/dms/image/v2/D5603AQGSO7wfzcNF4w/profile-displayphoto-scale_200_200/B56ZmWSPJKIAAY-/0/1759162988476?e=1761782400&v=beta&t=n3lmGCdcGOGsCkflcht5ilubEhG-dCf7ei64X7xpT-E"
           alt="Profile photo"
-          className="profile-img shadow-xl border-1 border-[#201F1F] aspect-1/1 w-30 rounded-full mr-5 p-0 box-border outline-none"
+          className="profile-img shadow-xl border-1 border-[#201F1F] aspect-1/1 w-20 rounded-full mr-5 p-0 box-border outline-none"
         />
         <div>
           <p className="font-bold text-2xl">Tafara Katsande</p>

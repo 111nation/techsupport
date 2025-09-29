@@ -1,69 +1,60 @@
-# React + TypeScript + Vite
+# Laptop & Software Support Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<i align="center">Landing page for my Laptop & Software Support Side Hustle</i>
 
-Currently, two official plugins are available:
+##### Leave a star while you are here :)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Website**: https://laptopandsoftwaresupport.vercel.app/
 
-## Expanding the ESLint configuration
+### Requirements
+1. Overview of services
+2. Booking button
+3. Contact Details
+4. Quick Summary of Services
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+### Tools & Skills
+- React.js
+- TypeScript
+- Figma (UI/UX)
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+### UI/UX
+_Various stages done in order to create the UI and UX experience_
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+<table>
+  <tr>
+    <td  width="50%"><img width="95%" align="center" alt="2025-07-17-214312_hyprshot" src="https://github.com/user-attachments/assets/10d09a13-76e0-43c5-a861-ad7a6c7219da" /></td>
+    <td>Wireframe: Defining the basic UI layout. The wireframe helps visualise how well the UX is</td>
+  </tr>
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+<tr>
+  <td width="50%"><img alt="2025-07-18-175514_hyprshot" src="https://github.com/user-attachments/assets/1544667c-5a87-4c22-aff6-cb0d3f29ded1" /></td>
+  <td>Colour Palette: Reusable colours, text and components.</td>
+</tr>
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+<tr>
+  <td width="50%"><img alt="2025-07-18-212935_hyprshot" src="https://github.com/user-attachments/assets/7d2c7cf5-3fa7-405f-a06d-4c7814f2e275" /></td>
+  <td>Final Figma Design: Result is a beautiful UI design.</td>
+</tr>
+</table>
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+<table>
+  <tr>
+    <td width="40%">
+     <h4>Phone Demo</h4>
+      <video src="https://github.com/user-attachments/assets/d9041f43-e762-466c-bf64-1b39833e566e"></video>
+    </td>
+    <td width="40%">
+      <h4>Log In Demo</h4>
+       <video src="https://github.com/user-attachments/assets/09cfeb77-971a-457a-b1ea-b58f79272bed"></video>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
