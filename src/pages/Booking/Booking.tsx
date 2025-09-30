@@ -58,7 +58,8 @@ function Booking() {
             qualify for a refund. Additional resources may be provided to you if
             your problem hasn't been solved. <br /> <br />
             <i className="m-0 text-md">
-              *Select a time slot for your call
+              *Select a time slot for your call <br />
+              *Pricing subject to change
             </i>{" "}
             <br />
             <Button className="mt-3 " onClick={onClick} />
