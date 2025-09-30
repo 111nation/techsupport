@@ -2,6 +2,8 @@
 
 <i align="center">Landing page for my Laptop & Software Support Side Hustle</i>
 
+<video src="https://github.com/user-attachments/assets/563c53aa-4f5c-476a-a60a-93851339a9b0"></video>
+
 ##### Leave a star while you are here :)
 
 **Website**: https://laptopandsoftwaresupport.vercel.app/
@@ -38,6 +40,9 @@ _Various stages done in order to create the UI and UX experience - process is si
   <td>Final Figma Design: Result is a clean UI</td>
 </tr>
 </table>
+
+
+
 
 
 
